@@ -41,7 +41,7 @@ const ResultsTable = (props) => {
     <div className={classes.ResultsTable}>
       <Card>
         <DataTable
-          title="Users"
+          title="Github Users"
           columns={columns}
           data={props.users}
           defaultSortField="title"
