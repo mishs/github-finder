@@ -13,7 +13,7 @@ function App() {
 
 const AppStyles = styled.div`
   background-color: #cfe8fc;
-  height: 100vh;
+  min-height: 100vh;
   margin: '2rem auto';
   width: '100%';
 `
