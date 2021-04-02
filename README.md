@@ -11,7 +11,7 @@ Web App that fetch users' data from GitHub's API.
 ## Available Scripts
 
 Git clone.\
-[git clone https://github.com/mishs/github-finder.git`] (https://github.com/mishs/github-finder.git) to view it in local browser.
+[`git clone https://github.com/mishs/github-finder.git`] (https://github.com/mishs/github-finder.git) to view it in local browser.
 
 
 In the project directory, you can run:
