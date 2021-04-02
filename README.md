@@ -1,4 +1,6 @@
 # Github-Finder- Create React App and Material-UI
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 Web App that fetch users' data from GitHub's API.
 [Create React App](https://github.com/facebook/create-react-app).
