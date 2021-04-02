@@ -1,53 +1,58 @@
 # Github-Finder
 
-Web App in React and Material-UI to fetch users' data from GitHub's API.
+Web App that fetch users' data from GitHub's API.
 
---
+# Github-Finder- Create React App and Material-UI
+
+Web App that fetch users' data from GitHub's API.
+[Create React App](https://github.com/facebook/create-react-app).
+
 ## Table of Content
-    . Installation
-    . Usage
+    . Available Scripts
     . Refactoring
     . License
 
-### Installation
+## Available Scripts
 
-```Git clone 
-[Git repo](https://github.com/mishs/github-finder.git)
+Git clone.\
+Open [https://github.com/mishs/github-finder.git](https://github.com/mishs/github-finder.git) to view it in local browser.
 
-<<<<<<< project-setup
-Use the package manager [npm](https://docs.npmjs.com/cli/v6/commands/npm-install) to install node.
 
-```bash
-npm i / yarn add
-```
+In the project directory, you can run:
 
-```bash
-npm start / yarn start
-```
+### `yarn start / npm start`
 
-## Usage
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-```Run the app in development mode on  
-[Git repo](http://localhost:3000/)
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+### `yarn test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `yarn build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
 
 ## Refactoring
 In progress
 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-
-
-Nailing it but not working in my case
-
-Link to that repo everything working, (one were the user uses ContextAPI
-
 
 
