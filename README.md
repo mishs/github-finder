@@ -1,7 +1,3 @@
-# Github-Finder
-
-Web App that fetch users' data from GitHub's API.
-
 # Github-Finder- Create React App and Material-UI
 
 Web App that fetch users' data from GitHub's API.
