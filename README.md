@@ -4,10 +4,10 @@ Web App that fetch users' data from GitHub's API.
 [Create React App](https://github.com/facebook/create-react-app).
 
 ## Table of Content
-    . ### Technologies used
-    . ### Available Scripts
-    . ### Refactoring
-    . ### License
+> ### Technologies used
+> ### Available Scripts
+> ### Refactoring
+> ### License
     
 ## Technologies used
 
